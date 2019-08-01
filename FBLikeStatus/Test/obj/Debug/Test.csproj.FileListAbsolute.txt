@@ -1,0 +1,14 @@
+F:\Desktop\Test\Test\bin\Debug\Test.exe.config
+F:\Desktop\Test\Test\bin\Debug\Test.exe
+F:\Desktop\Test\Test\bin\Debug\Test.pdb
+F:\Desktop\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Desktop\Test\Test\obj\Debug\Test.exe
+F:\Desktop\Test\Test\obj\Debug\Test.pdb
+F:\Desktop\Speed Test\Test\bin\Debug\Test.exe.config
+F:\Desktop\Speed Test\Test\bin\Debug\Test.exe
+F:\Desktop\Speed Test\Test\bin\Debug\Test.pdb
+F:\Desktop\Speed Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Desktop\Speed Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Desktop\Speed Test\Test\obj\Debug\Test.exe
+F:\Desktop\Speed Test\Test\obj\Debug\Test.pdb
